@@ -1,0 +1,15 @@
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.exe
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.deps.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.runtimeconfig.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.pdb
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.AssemblyInfoInputs.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.AssemblyInfo.cs
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.csproj.CoreCompileInputs.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.sourcelink.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\refint\DesafioLPOO.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.pdb
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.genruntimeconfig.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\DesafioLPOO\obj\Debug\net8.0\ref\DesafioLPOO.dll

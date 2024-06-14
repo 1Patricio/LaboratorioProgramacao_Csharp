@@ -1,0 +1,15 @@
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\bin\Debug\net8.0\TDE_03.06.exe
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\bin\Debug\net8.0\TDE_03.06.deps.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\bin\Debug\net8.0\TDE_03.06.runtimeconfig.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\bin\Debug\net8.0\TDE_03.06.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\bin\Debug\net8.0\TDE_03.06.pdb
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.AssemblyInfoInputs.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.AssemblyInfo.cs
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.csproj.CoreCompileInputs.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.sourcelink.json
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\refint\TDE_03.06.dll
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.pdb
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\TDE_03.06.genruntimeconfig.cache
+C:\GIT\Aulas-Faculdade\LaboratorioProgramacaoC#\TDE_03.06\obj\Debug\net8.0\ref\TDE_03.06.dll

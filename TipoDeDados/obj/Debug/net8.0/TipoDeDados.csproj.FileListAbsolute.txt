@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\bin\Debug\net8.0\TipoDeDados.exe
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\bin\Debug\net8.0\TipoDeDados.deps.json
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\bin\Debug\net8.0\TipoDeDados.runtimeconfig.json
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\bin\Debug\net8.0\TipoDeDados.dll
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\bin\Debug\net8.0\TipoDeDados.pdb
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.dll
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\refint\TipoDeDados.dll
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.pdb
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\TipoDeDados.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ULBRA\Csharps do Fogaca\TipoDeDados\obj\Debug\net8.0\ref\TipoDeDados.dll

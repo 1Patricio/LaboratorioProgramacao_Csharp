@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\bin\Debug\net8.0\LaboratorioProgramacao.exe
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\bin\Debug\net8.0\LaboratorioProgramacao.deps.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\bin\Debug\net8.0\LaboratorioProgramacao.runtimeconfig.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\bin\Debug\net8.0\LaboratorioProgramacao.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\bin\Debug\net8.0\LaboratorioProgramacao.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.AssemblyInfo.cs
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.sourcelink.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\refint\LaboratorioProgramacao.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\LaboratorioProgramacao.genruntimeconfig.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos\obj\Debug\net8.0\ref\LaboratorioProgramacao.dll

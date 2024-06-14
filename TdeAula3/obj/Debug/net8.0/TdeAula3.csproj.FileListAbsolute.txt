@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.AssemblyInfo.cs
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.sourcelink.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\bin\Debug\net8.0\TdeAula3.exe
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\bin\Debug\net8.0\TdeAula3.deps.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\bin\Debug\net8.0\TdeAula3.runtimeconfig.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\bin\Debug\net8.0\TdeAula3.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\bin\Debug\net8.0\TdeAula3.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\refint\TdeAula3.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\TdeAula3.genruntimeconfig.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\TdeAula3\obj\Debug\net8.0\ref\TdeAula3.dll

@@ -1,0 +1,15 @@
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\bin\Debug\net8.0\aula27.05.exe
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\bin\Debug\net8.0\aula27.05.deps.json
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\bin\Debug\net8.0\aula27.05.runtimeconfig.json
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\bin\Debug\net8.0\aula27.05.dll
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\bin\Debug\net8.0\aula27.05.pdb
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.AssemblyInfoInputs.cache
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.AssemblyInfo.cs
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.csproj.CoreCompileInputs.cache
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.sourcelink.json
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.dll
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\refint\aula27.05.dll
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.pdb
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\aula27.05.genruntimeconfig.cache
+C:\GIT\Aulas-Faculdade\Laboratório_de_Programação\aula27.05\obj\Debug\net8.0\ref\aula27.05.dll

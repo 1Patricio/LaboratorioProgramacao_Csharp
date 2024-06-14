@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.sourcelink.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\bin\Debug\net8.0\CursoSemipresencial.exe
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\bin\Debug\net8.0\CursoSemipresencial.deps.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\bin\Debug\net8.0\CursoSemipresencial.runtimeconfig.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\bin\Debug\net8.0\CursoSemipresencial.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\bin\Debug\net8.0\CursoSemipresencial.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\refint\CursoSemipresencial.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\CursoSemipresencial.genruntimeconfig.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\CursoSemipresencial\obj\Debug\net8.0\ref\CursoSemipresencial.dll

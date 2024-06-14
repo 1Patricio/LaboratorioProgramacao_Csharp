@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.AssemblyInfo.cs
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.sourcelink.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\bin\Debug\net8.0\OrientacaoObjetos2.exe
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\bin\Debug\net8.0\OrientacaoObjetos2.deps.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\bin\Debug\net8.0\OrientacaoObjetos2.runtimeconfig.json
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\bin\Debug\net8.0\OrientacaoObjetos2.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\bin\Debug\net8.0\OrientacaoObjetos2.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\refint\OrientacaoObjetos2.dll
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.pdb
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\OrientacaoObjetos2.genruntimeconfig.cache
+C:\Users\Usuario\Documents\A - GIT\LaboratorioProgramacao\OrientacaoObjetos2\obj\Debug\net8.0\ref\OrientacaoObjetos2.dll
