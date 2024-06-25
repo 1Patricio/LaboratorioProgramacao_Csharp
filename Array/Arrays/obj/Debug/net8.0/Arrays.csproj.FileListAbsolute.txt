@@ -1,0 +1,15 @@
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\Arrays\obj\Debug\net8.0\ref\Arrays.dll
