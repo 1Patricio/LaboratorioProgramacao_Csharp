@@ -1,0 +1,15 @@
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\bin\Debug\net8.0\ProjMenu.exe
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\bin\Debug\net8.0\ProjMenu.deps.json
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\bin\Debug\net8.0\ProjMenu.runtimeconfig.json
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\bin\Debug\net8.0\ProjMenu.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\bin\Debug\net8.0\ProjMenu.pdb
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.AssemblyInfoInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.AssemblyInfo.cs
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.csproj.CoreCompileInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.sourcelink.json
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\refint\ProjMenu.dll
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.pdb
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ProjMenu.genruntimeconfig.cache
+C:\GIT\LaboratorioProgramacaoC#\Array\ProjMenu\obj\Debug\net8.0\ref\ProjMenu.dll
