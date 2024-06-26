@@ -1,26 +1,16 @@
 public class Produto
 {
-    public string? Nome;
-    public double Preco;
-    public float Quantidade;
-    public string? Descricao;
+    public int Codigo, Quantidade;
+    public string? Nome, Descricao;
+    public decimal Preco;
 
-    public Produto(string nome, double preco, float quantidade, string descricao)
+    public Produto()
     {
-        this.Nome = nome;
-        this.Preco = preco;
-        this.Quantidade = quantidade;
-        this.Descricao = descricao;
+        Codigo = 0;
+        Nome = "";
+        Descricao = "";
+        Quantidade = 0;
+        Preco = 0;
     }
 
-    public void InfoProduto(){
-        System.Console.WriteLine($"Nome Produto:");
-        string nome = Console.ReadLine();
-        System.Console.WriteLine($"Preço:");
-        double preco = double.Parse(Console.ReadLine());
-        System.Console.WriteLine($"Quantidade:");
-        float quantidade = float.Parse(Console.ReadLine());
-        System.Console.WriteLine($"Descrição:");
-        string descricao = Console.ReadLine();
-    }
 }

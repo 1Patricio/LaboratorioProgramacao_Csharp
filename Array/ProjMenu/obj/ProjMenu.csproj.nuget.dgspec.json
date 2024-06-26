@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj": {}
+    "c:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj": {
+    "c:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj",
+        "projectUniqueName": "c:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj",
         "projectName": "ProjMenu",
-        "projectPath": "C:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj",
+        "projectPath": "c:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\ProjMenu.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\obj\\",
+        "outputPath": "c:\\GIT\\LaboratorioProgramacaoC#\\Array\\ProjMenu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
