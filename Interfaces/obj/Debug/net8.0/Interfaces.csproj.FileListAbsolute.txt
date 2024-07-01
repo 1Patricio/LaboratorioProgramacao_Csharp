@@ -1,0 +1,15 @@
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\GIT\LaboratorioProgramacaoC#\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
