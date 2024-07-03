@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\A - GIT\\LaboratorioProgramacao\\CursoSemipresencial\\CursoSemipresencial.csproj",
+      "projectUniqueName": "C:\\GIT\\LaboratorioProgramacaoC#\\Projetos-\\Calculadora\\CursoSemipresencial.csproj",
       "projectName": "CursoSemipresencial",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\A - GIT\\LaboratorioProgramacao\\CursoSemipresencial\\CursoSemipresencial.csproj",
+      "projectPath": "C:\\GIT\\LaboratorioProgramacaoC#\\Projetos-\\Calculadora\\CursoSemipresencial.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\A - GIT\\LaboratorioProgramacao\\CursoSemipresencial\\obj\\",
+      "outputPath": "C:\\GIT\\LaboratorioProgramacaoC#\\Projetos-\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
