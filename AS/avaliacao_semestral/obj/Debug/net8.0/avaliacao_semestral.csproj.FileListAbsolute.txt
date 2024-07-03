@@ -1,0 +1,15 @@
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\bin\Debug\net8.0\avaliacao_semestral.exe
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\bin\Debug\net8.0\avaliacao_semestral.deps.json
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\bin\Debug\net8.0\avaliacao_semestral.runtimeconfig.json
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\bin\Debug\net8.0\avaliacao_semestral.dll
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\bin\Debug\net8.0\avaliacao_semestral.pdb
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.AssemblyInfoInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.AssemblyInfo.cs
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.csproj.CoreCompileInputs.cache
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.sourcelink.json
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.dll
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\refint\avaliacao_semestral.dll
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.pdb
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\avaliacao_semestral.genruntimeconfig.cache
+C:\GIT\LaboratorioProgramacaoC#\AS\avaliacao_semestral\obj\Debug\net8.0\ref\avaliacao_semestral.dll

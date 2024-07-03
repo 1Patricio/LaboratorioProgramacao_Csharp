@@ -1,7 +1,7 @@
 public abstract class Funcionario
 {
-    private string? Nome;
-    private int Matricula;
+    public string? Nome;
+    public int Matricula;
 
     public Funcionario(string nome, int matricula)
     {
@@ -10,6 +10,7 @@ public abstract class Funcionario
     }
 
     public abstract double CalcularSalario();
-
     public abstract void ExibirInformacoes();
+    public abstract void AdicionarProjeto(string projeto);
+    public abstract void AdicionarProjeto(List<string> projetos);
 }

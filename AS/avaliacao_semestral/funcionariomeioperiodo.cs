@@ -1,9 +1,9 @@
-public class FuncionarioMeioPeriodo:Funcionario
+public class FuncionarioMeioPeriodo:Funcionario, IBonus
 {
-    private double SalarioHora;
-    private float HorasTrabalhadas;
+    public double SalarioHora;
+    public float HorasTrabalhadas;
 
-    public FuncionarioMeioPeriodo(string nome, int matricula, double salario_hora, float horas_trabalhadas)
+    public FuncionarioMeioPeriodo(string nome, int matricula, double salario_hora, float horas_trabalhadas):base(nome, matricula)
     {
         Nome = nome;
         Matricula = matricula;
@@ -18,8 +18,25 @@ public class FuncionarioMeioPeriodo:Funcionario
 
     public override void ExibirInformacoes()
     {
+        System.Console.WriteLine("_______________________________");
         Console.WriteLine("Nome: " + Nome);
         Console.WriteLine("Matrícula: " + Matricula);
         Console.WriteLine("Salário: " + CalcularSalario());
+        System.Console.WriteLine("_______________________________");
+    }
+
+    public double CalcularBonus()
+    {
+        return CalcularSalario() * 0.05;
+    }
+
+    public override void AdicionarProjeto(string projeto)
+    {
+        
+    }
+
+    public override void AdicionarProjeto(List<string> projetos)
+    {
+        
     }
 }

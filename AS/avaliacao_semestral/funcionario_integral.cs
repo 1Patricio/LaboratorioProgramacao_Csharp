@@ -1,8 +1,8 @@
-public class FuncionarioTempoIntegral:Funcionario
+public class FuncionarioTempoIntegral:Funcionario, IBonus
 {
-    private double SalarioMensal;
+    public double SalarioMensal;
 
-    public FuncionarioTempoIntegral(string nome, int matricula, double salario_mensal):base(Nome, Matricula)
+    public FuncionarioTempoIntegral(string nome, int matricula, double salario_mensal) : base(nome, matricula)
     {
         Nome = nome;
         Matricula = matricula;
@@ -16,8 +16,25 @@ public class FuncionarioTempoIntegral:Funcionario
 
     public override void ExibirInformacoes()
     {
+        System.Console.WriteLine("_____________________________________");
         Console.WriteLine("Nome: " + Nome);
         Console.WriteLine("Matrícula: " + Matricula);
-        Console.WriteLine("Salário: " + CalcularSalario());        
+        Console.WriteLine("Salário: " + CalcularSalario());
+        System.Console.WriteLine("_____________________________________");       
+    }
+
+    public double CalcularBonus()
+    {
+        return SalarioMensal * 0.1;
+    }
+
+    public override void AdicionarProjeto(string projeto)
+    {
+        
+    }
+
+    public override void AdicionarProjeto(List<string> projetos)
+    {
+        
     }
 }
