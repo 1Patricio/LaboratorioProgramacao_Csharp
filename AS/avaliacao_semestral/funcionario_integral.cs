@@ -20,6 +20,18 @@ public class FuncionarioTempoIntegral:Funcionario, IBonus
         Console.WriteLine("Nome: " + Nome);
         Console.WriteLine("Matrícula: " + Matricula);
         Console.WriteLine("Salário: " + CalcularSalario());
+        if(projetos.Count > 0)
+        {
+            System.Console.WriteLine("Projetos:");
+            foreach (var projeto in projetos)
+            {
+                System.Console.WriteLine(projeto);
+            }
+        }
+        else
+        {
+            System.Console.WriteLine("Nenhum projeto atribuído.");
+        }
         System.Console.WriteLine("_____________________________________");       
     }
 
@@ -28,13 +40,16 @@ public class FuncionarioTempoIntegral:Funcionario, IBonus
         return SalarioMensal * 0.1;
     }
 
-    public override void AdicionarProjeto(string projeto)
+    public override void AdicionarProjeto(int matricula, string projeto)
     {
-        
+        projetos.Add(projeto);
     }
 
     public override void AdicionarProjeto(List<string> projetos)
     {
-        
+        foreach (var projeto in projetos)
+        {
+            this.projetos.Add(projeto);
+        }
     }
 }

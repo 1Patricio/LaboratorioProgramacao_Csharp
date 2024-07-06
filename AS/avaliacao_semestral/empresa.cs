@@ -2,7 +2,7 @@ using System.Reflection.PortableExecutable;
 
 public class Empresa
 {
-    List<Funcionario> Funcionarios = new List<Funcionario>();
+    public List<Funcionario> Funcionarios = new List<Funcionario>();
 
     public void Adicionar (Funcionario funcionario)
     {
@@ -21,4 +21,5 @@ public class Empresa
             funcionario.ExibirInformacoes();
         }
     }
+
 }
